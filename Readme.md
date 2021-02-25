@@ -113,7 +113,7 @@ Embora a árvore seja uma boa opção para inserir livros e alugá-los(remove-lo
  - [Estrutura de dados descomplicada: em linguagem C/AndréRicardo Backes.1 ed-Rio de Janeiro: Elsevier,2016](https://www.amazon.com.br/Estrutura-Dados-Descomplicada-Linguagem-Backes/dp/8535285237)
  - [T.Cormen, et al,Algoritmos: Teoria e Prática,3 ed-Rio de Janeiro: Elsevier,2009](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_1?dchild=1&keywords=Introduction+to+Algorithms&qid=1613858932&sr=8-1)
 
-### Sites para simulação da RN
+### Site para simulação da RN
 - [Simulador Árvore Rubro Negra](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
 ### Sites
 - [Ime Usp](https://www.ime.usp.br/~song/mac5710/slides/08rb.pdf)
